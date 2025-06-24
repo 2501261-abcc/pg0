@@ -34,6 +34,7 @@ body {
 }
 
 .maindiv {
+    margin-top: 45px;
     padding: 20px;
     background-color: #d3d3d3;
     display: flex;
@@ -42,6 +43,6 @@ body {
 }
 
 img {
-    width: 30%;
-    height: auto;
+    width: 400px;
+    height: 300px;
 }
